@@ -24,7 +24,7 @@ You can instantly guide and display the path of the answer to the maze.
 Also, you can use your own maze that you created as an action game. you can play with it and save it as a file or image, so it can also be used outside this application.
 
 -Operating environment Windows XP or later
-   * BGM isn't be played during the game when you are not connected to the Internet.
+   * BGM isn't be played during the game when not connected to the Internet.
 
 -------------------------------------------------- -------------------------------------------------- -----------------------------
 
@@ -66,9 +66,9 @@ This file can be saved by "Save As" and "Save".
 By loading this saved file, you can play with the maze. 
 
 ・ Image files (* .jpg, * .png, * .bmp)
-The currently displayed file can be used externally
 Save as an image file.
-If you save it as an image once, the maze cannot be read from that image.
+The type of files can be used externally.
+However, if you save it as an image once, the maze cannot be read from that image.
 Therefore, if you want to play again or see the answer, make sure to create a maze file (* .mzd) in advance.
 
 -------------------------------------------------- -------------------------------------------------- ---------------------------
